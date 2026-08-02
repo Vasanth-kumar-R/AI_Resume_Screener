@@ -1,0 +1,24 @@
+Bob Miller
+Email: bob.miller@example.com
+Phone: +1-555-0102
+
+SUMMARY:
+Highly skilled Backend Developer with 7 years of industry experience specialising in API design and scalable infrastructure. Proficient in Python, containerisation with Docker, and cloud engineering on AWS.
+
+WORK EXPERIENCE:
+Lead Developer | CloudNest Inc. (2021 - Present)
+- Led a team of 4 engineers in developing a cloud-based storage orchestrator.
+- Designed system endpoints using FastAPI and PostgreSQL.
+- Utilised Redis to manage background workers and celery task queues.
+- Containerised all applications with Docker, deploying them to AWS ECS.
+
+Software Engineer | DevCorp (2017 - 2021)
+- Wrote reliable backend services in Python, Django, and Flask.
+- Managed source code and code reviews using Git and GitLab.
+- Designed and maintained PostgreSQL schemas.
+
+EDUCATION:
+Bachelor of Science in Software Engineering | University of Michigan (2017)
+
+SKILLS:
+Python, FastAPI, Django, Docker, AWS, PostgreSQL, Redis, Git, Gitlab, ECS, Microservices

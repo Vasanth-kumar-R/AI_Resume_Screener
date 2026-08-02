@@ -1,0 +1,18 @@
+Eve Adams
+Email: eve.a@example.com
+Phone: +1-555-0106
+
+SUMMARY:
+Junior Developer looking for a backend role. Competent in Python programming, HTML/CSS, and basic Git usage. Eager to learn cloud platforms and databases.
+
+EXPERIENCE:
+Associate Software Engineer | LaunchPad Tech (2023 - Present)
+- Maintained legacy Python scripts.
+- Developed basic web scraper scripts.
+- Used Git for individual projects.
+
+EDUCATION:
+Associate Degree in Applied Science | Austin Community College (2022)
+
+SKILLS:
+Python, Git, HTML, CSS, JavaScript, SQLite

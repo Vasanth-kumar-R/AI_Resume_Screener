@@ -1,0 +1,29 @@
+Alice Chen
+Email: alice.chen@example.com
+Phone: +1-555-0101
+LinkedIn: linkedin.com/in/alicechen
+
+PROFESSIONAL SUMMARY:
+Senior Software Engineer with over 6 years of experience building high-performance backend systems. Expert in Python, FastAPI, and database design using PostgreSQL. Passionate about automated testing, CI/CD, and serverless architectures.
+
+PROFESSIONAL EXPERIENCE:
+Senior Software Engineer | FinTech Solutions (2022 - Present)
+- Architected and built microservices using Python and FastAPI, handling 10k+ requests per second.
+- Migrated legacy data schemas to PostgreSQL, reducing query latency by 40%.
+- Integrated Redis for high-speed session caching and message queues.
+- Deployed services to AWS using Docker containers and Terraform.
+
+Backend Engineer | TechGlobal (2018 - 2022)
+- Designed APIs with Flask and FastAPI.
+- Worked with PostgreSQL, SQL Server, and Git for version control.
+- Automated testing using pytest, increasing coverage from 50% to 92%.
+
+EDUCATION:
+Master of Science in Computer Science | Stanford University (2018)
+Bachelor of Science in Computer Science | Stanford University (2016)
+
+TECHNICAL SKILLS:
+Languages: Python, SQL, JavaScript
+Frameworks: FastAPI, Flask, Django
+Databases: PostgreSQL, Redis, DynamoDB
+Tools & Cloud: Docker, AWS, Git, Terraform, Jenkins, Redis, CI/CD

@@ -1,0 +1,22 @@
+Elena Smirnova
+Email: elena.s@example.com
+Phone: +1-555-0105
+
+SUMMARY:
+Python enthusiast with 5 years of experience in data engineering and backend services. Proficient in database schemas and AWS analytics integrations.
+
+EXPERIENCE:
+Data Engineer | DataStream LLC (2021 - Present)
+- Designed data pipelines using Python, PostgreSQL, and AWS Redshift.
+- Written internal APIs using Flask to serve data models.
+- Deployed worker instances to AWS.
+
+Backend Developer | CodeWeb (2019 - 2021)
+- Maintained web APIs using Django, PostgreSQL, and Docker.
+- Used Git for team collaboration.
+
+EDUCATION:
+Master of Science in Information Systems | Moscow State University (2019)
+
+SKILLS:
+Python, Flask, Django, PostgreSQL, AWS, Git, Docker, SQL, Pandas, NumPy, Redis

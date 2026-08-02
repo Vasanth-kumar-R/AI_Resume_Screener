@@ -1,0 +1,26 @@
+JOB TITLE: Senior Backend Engineer
+DEPARTMENT: Engineering
+REPORTS TO: Director of Engineering
+
+ROLE OVERVIEW:
+We are looking for a Senior Backend Engineer to join our core team. In this role, you will design, build, and maintain highly scalable backend services. You will collaborate closely with product managers, frontend developers, and data engineers to deliver high-quality features and services.
+
+REQUIRED SKILLS:
+- Python
+- FastAPI
+- PostgreSQL
+- Docker
+- Git
+- Redis
+- AWS
+
+MINIMUM EXPERIENCE:
+- 5 years of professional backend software engineering experience.
+
+MINIMUM EDUCATION:
+- Bachelor's degree in Computer Science, Software Engineering, or a related technical field.
+
+PREFERRED SKILLS & QUALIFICATIONS:
+- Experience with asyncio and concurrent programming in Python.
+- Familiarity with vector databases and search engines (ElasticSearch, FAISS, Milvus).
+- Master's degree in Computer Science or a technical field.

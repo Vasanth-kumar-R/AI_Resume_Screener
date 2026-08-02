@@ -1,0 +1,18 @@
+George Clark
+Email: george.c@example.com
+Phone: +1-555-0108
+
+SUMMARY:
+Software developer with 3 years of experience. Experienced with PHP and Laravel framework. Basic knowledge of Python and Docker.
+
+EXPERIENCE:
+Web Developer | WebPros (2021 - Present)
+- Developed ecommerce sites using PHP, Laravel, and MySQL.
+- Containerised local development environment using Docker.
+- Managed repositories with Git.
+
+EDUCATION:
+High School Diploma | Central High School (2019)
+
+SKILLS:
+PHP, Laravel, MySQL, Git, Docker (basic), Python (basic), HTML, CSS

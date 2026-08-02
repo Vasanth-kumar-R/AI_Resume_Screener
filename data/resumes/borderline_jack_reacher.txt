@@ -1,0 +1,22 @@
+Jack Reacher
+Email: jack.r@example.com
+Phone: +1-555-0112
+
+SUMMARY:
+Senior Systems Administrator with 10 years of experience managing Linux infrastructure, Docker containers, AWS deployments, and version control with Git. Basic Python scripting knowledge. No API development experience.
+
+EXPERIENCE:
+Senior DevOps & Systems Administrator | CyberSecurity Ltd (2019 - Present)
+- Maintained high-availability servers on AWS.
+- Configured and deployed Docker containers across multiple clusters.
+- Managed configuration files and codebase version control with Git.
+- Developed internal bash and Python scripts to automate system health checks.
+
+Systems Administrator | NetSolutions (2014 - 2019)
+- Maintained Linux servers and internal networks.
+
+EDUCATION:
+Bachelor of Science in Computer Engineering | Georgia Tech (2014)
+
+SKILLS:
+Linux, AWS, Docker, Git, Python (scripting), Bash Scripting, Network Security, Ansible, Kubernetes

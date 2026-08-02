@@ -1,0 +1,23 @@
+Charlie Patel
+Email: charlie.p@example.com
+Phone: +1-555-0103
+
+SUMMARY:
+Backend Software Developer with 4 years of experience specializing in Python and FastAPI. Experience designing APIs and working with containerized services.
+
+EXPERIENCE:
+Software Engineer | AppForge (2020 - Present)
+- Developed APIs using Python, FastAPI, and SQLAlchemy.
+- Managed databases with PostgreSQL and Redis.
+- Used Git for version control and collaborated in an agile team.
+- Containerised services with Docker.
+
+Junior Backend Developer | ByteLabs (2019 - 2020)
+- Assisted in Python script optimization and cron job monitoring.
+- Documented API endpoints.
+
+EDUCATION:
+Bachelor of Technology in Computer Science | IIT Bombay (2019)
+
+SKILLS:
+Python, FastAPI, PostgreSQL, Redis, Docker, Git, SQL, Flask, Linux

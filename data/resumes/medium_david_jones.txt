@@ -1,0 +1,22 @@
+David Jones
+Email: david.jones@example.com
+Phone: +1-555-0104
+
+SUMMARY:
+Backend Engineer with 8 years of software development experience. Primarily worked with Ruby on Rails and Node.js, recently transitioned to Python and FastAPI.
+
+EXPERIENCE:
+Senior Engineer | WebFlow (2018 - Present)
+- Developed robust web services using Ruby on Rails, PostgreSQL, and AWS.
+- Created microservices in Node.js and deployed them using Docker.
+- Managed infrastructure on AWS (EC2, S3, RDS).
+
+Software Engineer | RubyDevs (2015 - 2018)
+- Built e-commerce backends with Ruby, PostgreSQL, and Redis.
+- Managed codebases using Git.
+
+EDUCATION:
+Bachelor of Science in Information Technology | Temple University (2015)
+
+SKILLS:
+Ruby on Rails, Node.js, JavaScript, PostgreSQL, AWS, Git, Docker, Python, FastAPI (basic), SQL, Redis

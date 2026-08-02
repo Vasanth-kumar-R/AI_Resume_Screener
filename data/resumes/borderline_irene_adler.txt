@@ -1,0 +1,21 @@
+Irene Adler
+Email: irene.adler@example.com
+Phone: +1-555-0111
+
+SUMMARY:
+Highly motivated Software Engineering graduate with strong technical capabilities. Excellent knowledge of Python, FastAPI, Docker, PostgreSQL, AWS, and Git. Lacks professional workplace experience.
+
+EXPERIENCE:
+Backend Intern | CodeBase Inc. (May 2024 - August 2024)
+- Built REST API endpoints in Python using FastAPI.
+- Wrote SQL queries for PostgreSQL databases.
+- Contributed to Docker-compose setups for local testing.
+
+University Projects (2020 - 2024)
+- Built a microservices app deployed on AWS using ECS, Docker, Python, and Git.
+
+EDUCATION:
+Bachelor of Science in Computer Science | MIT (2024)
+
+SKILLS:
+Python, FastAPI, Docker, PostgreSQL, AWS, Git, Redis, Linux, Agile

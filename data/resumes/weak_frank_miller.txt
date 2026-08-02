@@ -1,0 +1,21 @@
+Frank Miller
+Email: frank.m@example.com
+Phone: +1-555-0107
+
+SUMMARY:
+Frontend Engineer with 6 years of experience who wants to transition to Full Stack / Backend roles. Strong expertise in JavaScript, React, and CSS. Limited backend experience.
+
+EXPERIENCE:
+Senior Frontend Developer | UI Craft (2020 - Present)
+- Designed interactive UI dashboards using React, Redux, and JavaScript.
+- Handled state management and client-side page load optimization.
+- Styled components using Tailwind CSS and Git for version control.
+
+Frontend Engineer | DesignGrid (2018 - 2020)
+- Created responsive pages using HTML, CSS, React.
+
+EDUCATION:
+Bachelor of Arts in Graphic Design | NYU (2017)
+
+SKILLS:
+React, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3, Git, Python (basic), Node.js (basic)
