@@ -125,5 +125,7 @@ $RECYCLE.BIN/
 *.csv
 *.json
 !requirements.txt
+!outputs/ranked_candidates.json
+!outputs/ranked_candidates.csv
 results/
 exports/

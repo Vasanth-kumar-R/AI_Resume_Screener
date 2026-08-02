@@ -1,0 +1,13 @@
+Rank,Name,Score,Confidence,Email,Phone,Experience (Years),Education Level,Semantic Match %,Skill Overlap %,Experience Match %,Education Match %
+1,Bob Miller,88.82,High,bob.miller@example.com,+1-555-0102,7.0,Bachelor,75.53,100.0,90.7,100.0
+2,David Jones,87.67,High,david.jones@example.com,+1-555-0104,8.0,Bachelor,71.77,100.0,93.06,100.0
+3,Alice Chen,86.12,High,alice.chen@example.com,+1-555-0101,6.0,Master,69.81,100.0,87.96,100.0
+4,Elena Smirnova,81.42,High,elena.s@example.com,+1-555-0105,5.0,Master,71.68,85.71,85.0,100.0
+5,Charlie Patel,77.28,High,charlie.p@example.com,+1-555-0103,4.0,Bachelor,70.69,85.71,60.0,100.0
+6,Irene Adler,74.53,High,irene.adler@example.com,+1-555-0111,0.0,Bachelor,73.82,100.0,0.0,100.0
+7,Jack Reacher,66.84,Medium,jack.r@example.com,+1-555-0112,10.0,Bachelor,55.95,57.14,96.42,100.0
+8,Frank Miller,53.22,Medium,frank.m@example.com,+1-555-0107,6.0,Bachelor,50.06,28.57,87.96,100.0
+9,Eve Adams,47.42,Medium,eve.a@example.com,+1-555-0106,1.0,Bachelor,62.92,28.57,15.0,100.0
+10,George Clark,47.1,Medium,george.c@example.com,+1-555-0108,3.0,High School,55.88,42.86,45.0,30.0
+11,Grace Taylor,35.07,Low,chefgrace@example.com,+1-555-0109,10.0,Bachelor,26.52,0.0,96.42,100.0
+12,Harold Finch,32.32,Low,harold.f@example.com,+1-555-0110,8.0,Master,20.91,0.0,93.06,100.0

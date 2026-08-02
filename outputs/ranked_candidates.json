@@ -1,0 +1,1019 @@
+[
+  {
+    "filename": "strong_bob_miller.txt",
+    "name": "Bob Miller",
+    "email": "bob.miller@example.com",
+    "phone": "+1-555-0102",
+    "total_score": 88.82,
+    "confidence": "High",
+    "breakdown": {
+      "semantic_similarity": 75.53,
+      "skill_overlap": 100.0,
+      "experience": 90.7,
+      "education": 100.0
+    },
+    "explanation": "Bob Miller is a strong match for the senior backend engineer role, with an overall high quality of fit. His skills in python, fastapi, postgresql, docker, and aws demonstrate a particularly strong alignment with the job requirements, and his 7 years of experience, including roles as a lead developer and software engineer, suggest a high level of competence. However, a key area for further exploration is his experience with redis in a production environment, as well as potential gaps in knowledge of specific aws services beyond ecs. Based on the assessment, I recommend Bob Miller as a Strong Hire for the senior backend engineer position.",
+    "jd_fields": {
+      "required_skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "docker",
+        "git",
+        "redis",
+        "aws"
+      ],
+      "preferred_skills": [
+        "asyncio",
+        "concurrent programming in python",
+        "elasticsearch",
+        "faiss",
+        "milvus"
+      ],
+      "min_experience_years": 5.0,
+      "education": "Bachelor",
+      "roles": [
+        "senior backend engineer"
+      ],
+      "domain": "Software"
+    },
+    "resume_fields": {
+      "name": "Bob Miller",
+      "email": "bob.miller@example.com",
+      "phone": "+1-555-0102",
+      "skills": [
+        "python",
+        "fastapi",
+        "django",
+        "docker",
+        "aws",
+        "postgresql",
+        "redis",
+        "git",
+        "gitlab",
+        "ecs",
+        "microservices"
+      ],
+      "experience_years": 7.0,
+      "education": "B.Sc in Software Engineering",
+      "education_level": "Bachelor",
+      "roles": [
+        "lead developer",
+        "software engineer"
+      ],
+      "companies": [
+        "CloudNest Inc.",
+        "DevCorp"
+      ],
+      "summary": "Highly skilled Backend Developer with 7 years of industry experience specialising in API design and scalable infrastructure. Proficient in Python, containerisation with Docker, and cloud engineering on AWS."
+    },
+    "summary": "Highly skilled Backend Developer with 7 years of industry experience specialising in API design and scalable infrastructure. Proficient in Python, containerisation with Docker, and cloud engineering on AWS.",
+    "score_dict": {
+      "total": 88.82,
+      "confidence": "High",
+      "breakdown": {
+        "semantic_similarity": 75.53,
+        "skill_overlap": 100.0,
+        "experience": 90.7,
+        "education": 100.0
+      },
+      "weights": {
+        "semantic": 0.4,
+        "skill": 0.35,
+        "experience": 0.15,
+        "education": 0.1
+      }
+    },
+    "rank": 1
+  },
+  {
+    "filename": "medium_david_jones.txt",
+    "name": "David Jones",
+    "email": "david.jones@example.com",
+    "phone": "+1-555-0104",
+    "total_score": 87.67,
+    "confidence": "High",
+    "breakdown": {
+      "semantic_similarity": 71.77,
+      "skill_overlap": 100.0,
+      "experience": 93.06,
+      "education": 100.0
+    },
+    "explanation": "David Jones is a strong match for the senior backend engineer role, with an overall high match quality. His skills in python, fastapi, postgresql, docker, git, and redis align perfectly with the job requirements, and his 8 years of experience, including roles as a senior engineer, demonstrate a high level of expertise. However, the presence of additional skills such as ruby on rails and node.js may indicate a broader focus than the role requires, and it is worth exploring how his diverse experience will be leveraged in this position. Based on the assessment, I recommend David Jones as a Strong Hire.",
+    "jd_fields": {
+      "required_skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "docker",
+        "git",
+        "redis",
+        "aws"
+      ],
+      "preferred_skills": [
+        "asyncio",
+        "concurrent programming in python",
+        "elasticsearch",
+        "faiss",
+        "milvus"
+      ],
+      "min_experience_years": 5.0,
+      "education": "Bachelor",
+      "roles": [
+        "senior backend engineer"
+      ],
+      "domain": "Software"
+    },
+    "resume_fields": {
+      "name": "David Jones",
+      "email": "david.jones@example.com",
+      "phone": "+1-555-0104",
+      "skills": [
+        "ruby on rails",
+        "node.js",
+        "javascript",
+        "postgresql",
+        "aws",
+        "git",
+        "docker",
+        "python",
+        "fastapi",
+        "sql",
+        "redis"
+      ],
+      "experience_years": 8.0,
+      "education": "B.Sc in Information Technology",
+      "education_level": "Bachelor",
+      "roles": [
+        "senior engineer",
+        "software engineer"
+      ],
+      "companies": [
+        "WebFlow",
+        "RubyDevs"
+      ],
+      "summary": "Backend Engineer with 8 years of software development experience. Primarily worked with Ruby on Rails and Node.js, recently transitioned to Python and FastAPI."
+    },
+    "summary": "Backend Engineer with 8 years of software development experience. Primarily worked with Ruby on Rails and Node.js, recently transitioned to Python and FastAPI.",
+    "score_dict": {
+      "total": 87.67,
+      "confidence": "High",
+      "breakdown": {
+        "semantic_similarity": 71.77,
+        "skill_overlap": 100.0,
+        "experience": 93.06,
+        "education": 100.0
+      },
+      "weights": {
+        "semantic": 0.4,
+        "skill": 0.35,
+        "experience": 0.15,
+        "education": 0.1
+      }
+    },
+    "rank": 2
+  },
+  {
+    "filename": "strong_alice_chen.txt",
+    "name": "Alice Chen",
+    "email": "alice.chen@example.com",
+    "phone": "+1-555-0101",
+    "total_score": 86.12,
+    "confidence": "High",
+    "breakdown": {
+      "semantic_similarity": 69.81,
+      "skill_overlap": 100.0,
+      "experience": 87.96,
+      "education": 100.0
+    },
+    "explanation": "Alice Chen is a strong match for the senior backend engineer role, with an overall high quality of fit. Her skills in python, fastapi, postgresql, docker, git, and redis align perfectly with the job requirements, demonstrating exceptional technical compatibility. However, while her experience and education exceed the minimum requirements, the semantic similarity score suggests some potential gaps in the nuances of the role or industry-specific knowledge. Based on the assessment, I recommend Alice Chen as a Strong Hire.",
+    "jd_fields": {
+      "required_skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "docker",
+        "git",
+        "redis",
+        "aws"
+      ],
+      "preferred_skills": [
+        "asyncio",
+        "concurrent programming in python",
+        "elasticsearch",
+        "faiss",
+        "milvus"
+      ],
+      "min_experience_years": 5.0,
+      "education": "Bachelor",
+      "roles": [
+        "senior backend engineer"
+      ],
+      "domain": "Software"
+    },
+    "resume_fields": {
+      "name": "Alice Chen",
+      "email": "alice.chen@example.com",
+      "phone": "+1-555-0101",
+      "skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "sql",
+        "javascript",
+        "flask",
+        "django",
+        "docker",
+        "aws",
+        "git",
+        "terraform",
+        "jenkins",
+        "redis",
+        "ci/cd"
+      ],
+      "experience_years": 6.0,
+      "education": "M.Sc",
+      "education_level": "Master",
+      "roles": [
+        "senior software engineer",
+        "backend engineer"
+      ],
+      "companies": [
+        "FinTech Solutions",
+        "TechGlobal"
+      ],
+      "summary": "Senior Software Engineer with over 6 years of experience building high-performance backend systems. Expert in Python, FastAPI, and database design using PostgreSQL, with a passion for automated testing, CI/CD, and serverless architectures."
+    },
+    "summary": "Senior Software Engineer with over 6 years of experience building high-performance backend systems. Expert in Python, FastAPI, and database design using PostgreSQL, with a passion for automated testing, CI/CD, and serverless architectures.",
+    "score_dict": {
+      "total": 86.12,
+      "confidence": "High",
+      "breakdown": {
+        "semantic_similarity": 69.81,
+        "skill_overlap": 100.0,
+        "experience": 87.96,
+        "education": 100.0
+      },
+      "weights": {
+        "semantic": 0.4,
+        "skill": 0.35,
+        "experience": 0.15,
+        "education": 0.1
+      }
+    },
+    "rank": 3
+  },
+  {
+    "filename": "medium_elena_smirnova.txt",
+    "name": "Elena Smirnova",
+    "email": "elena.s@example.com",
+    "phone": "+1-555-0105",
+    "total_score": 81.42,
+    "confidence": "High",
+    "breakdown": {
+      "semantic_similarity": 71.68,
+      "skill_overlap": 85.71,
+      "experience": 85.0,
+      "education": 100.0
+    },
+    "explanation": "Elena Smirnova is a strong match for the senior backend engineer role, with a notable alignment of skills and experience. Her proficiency in python, postgresql, docker, git, and redis, as well as her experience as a backend developer, make her a compelling candidate. However, a key gap in her profile is the lack of experience with fastapi, which is a required skill for the position. Based on her overall profile, I recommend Elena as a Hire, given her strong foundation in relevant technologies and her potential to adapt to the missing skill.",
+    "jd_fields": {
+      "required_skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "docker",
+        "git",
+        "redis",
+        "aws"
+      ],
+      "preferred_skills": [
+        "asyncio",
+        "concurrent programming in python",
+        "elasticsearch",
+        "faiss",
+        "milvus"
+      ],
+      "min_experience_years": 5.0,
+      "education": "Bachelor",
+      "roles": [
+        "senior backend engineer"
+      ],
+      "domain": "Software"
+    },
+    "resume_fields": {
+      "name": "Elena Smirnova",
+      "email": "elena.s@example.com",
+      "phone": "+1-555-0105",
+      "skills": [
+        "python",
+        "flask",
+        "django",
+        "postgresql",
+        "aws",
+        "git",
+        "docker",
+        "sql",
+        "pandas",
+        "numpy",
+        "redis"
+      ],
+      "experience_years": 5.0,
+      "education": "Master of Science in Information Systems",
+      "education_level": "Master",
+      "roles": [
+        "data engineer",
+        "backend developer"
+      ],
+      "companies": [
+        "DataStream LLC",
+        "CodeWeb"
+      ],
+      "summary": "Python enthusiast with 5 years of experience in data engineering and backend services. Proficient in database schemas and AWS analytics integrations."
+    },
+    "summary": "Python enthusiast with 5 years of experience in data engineering and backend services. Proficient in database schemas and AWS analytics integrations.",
+    "score_dict": {
+      "total": 81.42,
+      "confidence": "High",
+      "breakdown": {
+        "semantic_similarity": 71.68,
+        "skill_overlap": 85.71,
+        "experience": 85.0,
+        "education": 100.0
+      },
+      "weights": {
+        "semantic": 0.4,
+        "skill": 0.35,
+        "experience": 0.15,
+        "education": 0.1
+      }
+    },
+    "rank": 4
+  },
+  {
+    "filename": "medium_charlie_patel.txt",
+    "name": "Charlie Patel",
+    "email": "charlie.p@example.com",
+    "phone": "+1-555-0103",
+    "total_score": 77.28,
+    "confidence": "High",
+    "breakdown": {
+      "semantic_similarity": 70.69,
+      "skill_overlap": 85.71,
+      "experience": 60.0,
+      "education": 100.0
+    },
+    "explanation": "Charlie Patel is a strong candidate with a high overall match quality, driven by an excellent skill overlap with the required skills for the senior backend engineer role, particularly in python, fastapi, and postgresql. However, a key concern is the candidate's experience, which falls short of the minimum 5 years required, with only 4 years of experience in relevant roles. Despite this gap, Charlie's education and skill set align well with the job requirements. Based on these factors, I recommend Charlie as a Borderline hire, requiring further evaluation to assess their potential to grow into the senior role.",
+    "jd_fields": {
+      "required_skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "docker",
+        "git",
+        "redis",
+        "aws"
+      ],
+      "preferred_skills": [
+        "asyncio",
+        "concurrent programming in python",
+        "elasticsearch",
+        "faiss",
+        "milvus"
+      ],
+      "min_experience_years": 5.0,
+      "education": "Bachelor",
+      "roles": [
+        "senior backend engineer"
+      ],
+      "domain": "Software"
+    },
+    "resume_fields": {
+      "name": "Charlie Patel",
+      "email": "charlie.p@example.com",
+      "phone": "+1-555-0103",
+      "skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "redis",
+        "docker",
+        "git",
+        "sql",
+        "flask",
+        "linux"
+      ],
+      "experience_years": 4.0,
+      "education": "B.Tech",
+      "education_level": "Bachelor",
+      "roles": [
+        "software engineer",
+        "junior backend developer"
+      ],
+      "companies": [
+        "AppForge",
+        "ByteLabs"
+      ],
+      "summary": "Backend Software Developer with 4 years of experience specializing in Python and FastAPI. Experience designing APIs and working with containerized services."
+    },
+    "summary": "Backend Software Developer with 4 years of experience specializing in Python and FastAPI. Experience designing APIs and working with containerized services.",
+    "score_dict": {
+      "total": 77.28,
+      "confidence": "High",
+      "breakdown": {
+        "semantic_similarity": 70.69,
+        "skill_overlap": 85.71,
+        "experience": 60.0,
+        "education": 100.0
+      },
+      "weights": {
+        "semantic": 0.4,
+        "skill": 0.35,
+        "experience": 0.15,
+        "education": 0.1
+      }
+    },
+    "rank": 5
+  },
+  {
+    "filename": "borderline_irene_adler.txt",
+    "name": "Irene Adler",
+    "email": "irene.adler@example.com",
+    "phone": "+1-555-0111",
+    "total_score": 74.53,
+    "confidence": "High",
+    "breakdown": {
+      "semantic_similarity": 73.82,
+      "skill_overlap": 100.0,
+      "experience": 0.0,
+      "education": 100.0
+    },
+    "explanation": "Irene Adler is a borderline candidate for the senior backend engineer role, with a strong technical skillset that aligns well with the job requirements, particularly in areas such as python, fastapi, and postgresql. However, a significant concern is the lack of professional experience, with 0 years of experience falling short of the 5-year minimum requirement. Despite her impressive skill overlap and education match, her inexperience raises doubts about her ability to fulfill the demands of a senior role. Based on this assessment, I would recommend a Reject, as the experience gap is a critical factor that outweighs her technical strengths.",
+    "jd_fields": {
+      "required_skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "docker",
+        "git",
+        "redis",
+        "aws"
+      ],
+      "preferred_skills": [
+        "asyncio",
+        "concurrent programming in python",
+        "elasticsearch",
+        "faiss",
+        "milvus"
+      ],
+      "min_experience_years": 5.0,
+      "education": "Bachelor",
+      "roles": [
+        "senior backend engineer"
+      ],
+      "domain": "Software"
+    },
+    "resume_fields": {
+      "name": "Irene Adler",
+      "email": "irene.adler@example.com",
+      "phone": "+1-555-0111",
+      "skills": [
+        "python",
+        "fastapi",
+        "docker",
+        "postgresql",
+        "aws",
+        "git",
+        "redis",
+        "linux",
+        "agile"
+      ],
+      "experience_years": 0.0,
+      "education": "B.Sc",
+      "education_level": "Bachelor",
+      "roles": [
+        "backend intern"
+      ],
+      "companies": [
+        "CodeBase Inc."
+      ],
+      "summary": "Highly motivated Software Engineering graduate with strong technical capabilities. Excellent knowledge of Python, FastAPI, Docker, PostgreSQL, AWS, and Git."
+    },
+    "summary": "Highly motivated Software Engineering graduate with strong technical capabilities. Excellent knowledge of Python, FastAPI, Docker, PostgreSQL, AWS, and Git.",
+    "score_dict": {
+      "total": 74.53,
+      "confidence": "High",
+      "breakdown": {
+        "semantic_similarity": 73.82,
+        "skill_overlap": 100.0,
+        "experience": 0.0,
+        "education": 100.0
+      },
+      "weights": {
+        "semantic": 0.4,
+        "skill": 0.35,
+        "experience": 0.15,
+        "education": 0.1
+      }
+    },
+    "rank": 6
+  },
+  {
+    "filename": "borderline_jack_reacher.txt",
+    "name": "Jack Reacher",
+    "email": "jack.r@example.com",
+    "phone": "+1-555-0112",
+    "total_score": 66.84,
+    "confidence": "Medium",
+    "breakdown": {
+      "semantic_similarity": 55.95,
+      "skill_overlap": 57.14,
+      "experience": 96.42,
+      "education": 100.0
+    },
+    "explanation": "Based on the computed scores, Jack Reacher is a Borderline candidate for the senior backend engineer role, with an overall match quality that is somewhat below expectations. His strongest matching skills and experience include his proficiency in python, docker, git, and aws, as well as his 10 years of experience, which exceeds the minimum requirement. However, key gaps and concerns include the lack of direct experience with fastapi, postgresql, and redis, which are critical skills for the role. Given his impressive experience and some relevant skills, I would recommend considering him further, but with additional evaluation to assess his potential to learn and adapt to the missing technical requirements.",
+    "jd_fields": {
+      "required_skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "docker",
+        "git",
+        "redis",
+        "aws"
+      ],
+      "preferred_skills": [
+        "asyncio",
+        "concurrent programming in python",
+        "elasticsearch",
+        "faiss",
+        "milvus"
+      ],
+      "min_experience_years": 5.0,
+      "education": "Bachelor",
+      "roles": [
+        "senior backend engineer"
+      ],
+      "domain": "Software"
+    },
+    "resume_fields": {
+      "name": "Jack Reacher",
+      "email": "jack.r@example.com",
+      "phone": "+1-555-0112",
+      "skills": [
+        "linux",
+        "aws",
+        "docker",
+        "git",
+        "python",
+        "bash scripting",
+        "network security",
+        "ansible",
+        "kubernetes"
+      ],
+      "experience_years": 10.0,
+      "education": "B.Sc",
+      "education_level": "Bachelor",
+      "roles": [
+        "senior systems administrator",
+        "senior devops & systems administrator",
+        "systems administrator"
+      ],
+      "companies": [
+        "CyberSecurity Ltd",
+        "NetSolutions"
+      ],
+      "summary": "Senior Systems Administrator with 10 years of experience managing Linux infrastructure, Docker containers, AWS deployments, and version control with Git. Basic Python scripting knowledge."
+    },
+    "summary": "Senior Systems Administrator with 10 years of experience managing Linux infrastructure, Docker containers, AWS deployments, and version control with Git. Basic Python scripting knowledge.",
+    "score_dict": {
+      "total": 66.84,
+      "confidence": "Medium",
+      "breakdown": {
+        "semantic_similarity": 55.95,
+        "skill_overlap": 57.14,
+        "experience": 96.42,
+        "education": 100.0
+      },
+      "weights": {
+        "semantic": 0.4,
+        "skill": 0.35,
+        "experience": 0.15,
+        "education": 0.1
+      }
+    },
+    "rank": 7
+  },
+  {
+    "filename": "weak_frank_miller.txt",
+    "name": "Frank Miller",
+    "email": "frank.m@example.com",
+    "phone": "+1-555-0107",
+    "total_score": 53.22,
+    "confidence": "Medium",
+    "breakdown": {
+      "semantic_similarity": 50.06,
+      "skill_overlap": 28.57,
+      "experience": 87.96,
+      "education": 100.0
+    },
+    "explanation": "Frank Miller is a borderline match for the senior backend engineer role, with notable strengths in his experience and education. His 6 years of experience and bachelor's degree are well-aligned with the job requirements, and he also possesses proficiency in python and git, which are essential skills for the position. However, significant gaps exist in his technical skills, particularly in backend development, as he lacks experience with fastapi, postgresql, docker, redis, and aws, which are crucial for the role. Based on these findings, I recommend a Borderline hiring decision, as Frank's frontend-focused skillset may require substantial upskilling to meet the backend engineering demands of the position.",
+    "jd_fields": {
+      "required_skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "docker",
+        "git",
+        "redis",
+        "aws"
+      ],
+      "preferred_skills": [
+        "asyncio",
+        "concurrent programming in python",
+        "elasticsearch",
+        "faiss",
+        "milvus"
+      ],
+      "min_experience_years": 5.0,
+      "education": "Bachelor",
+      "roles": [
+        "senior backend engineer"
+      ],
+      "domain": "Software"
+    },
+    "resume_fields": {
+      "name": "Frank Miller",
+      "email": "frank.m@example.com",
+      "phone": "+1-555-0107",
+      "skills": [
+        "react",
+        "javascript",
+        "typescript",
+        "tailwind css",
+        "html5",
+        "css3",
+        "git",
+        "python",
+        "node.js"
+      ],
+      "experience_years": 6.0,
+      "education": "Bachelor of Arts in Graphic Design",
+      "education_level": "Bachelor",
+      "roles": [
+        "senior frontend developer",
+        "frontend engineer"
+      ],
+      "companies": [
+        "UI Craft",
+        "DesignGrid"
+      ],
+      "summary": "Frontend Engineer with 6 years of experience who wants to transition to Full Stack / Backend roles. Strong expertise in JavaScript, React, and CSS with limited backend experience."
+    },
+    "summary": "Frontend Engineer with 6 years of experience who wants to transition to Full Stack / Backend roles. Strong expertise in JavaScript, React, and CSS with limited backend experience.",
+    "score_dict": {
+      "total": 53.22,
+      "confidence": "Medium",
+      "breakdown": {
+        "semantic_similarity": 50.06,
+        "skill_overlap": 28.57,
+        "experience": 87.96,
+        "education": 100.0
+      },
+      "weights": {
+        "semantic": 0.4,
+        "skill": 0.35,
+        "experience": 0.15,
+        "education": 0.1
+      }
+    },
+    "rank": 8
+  },
+  {
+    "filename": "weak_eve_adams.txt",
+    "name": "Eve Adams",
+    "email": "eve.a@example.com",
+    "phone": "+1-555-0106",
+    "total_score": 47.42,
+    "confidence": "Medium",
+    "breakdown": {
+      "semantic_similarity": 62.92,
+      "skill_overlap": 28.57,
+      "experience": 15.0,
+      "education": 100.0
+    },
+    "explanation": "Eve Adams is a borderline candidate for the senior backend engineer role, with an overall match quality that is limited by significant gaps in required skills and experience. Her strongest matching skills are python and git, which align with the job requirements, but she lacks critical skills such as fastapi, postgresql, and aws. Key concerns include her limited experience of only 1 year, far short of the 5-year minimum, and a lack of relevant technical skills. Based on these factors, I would recommend a Borderline hiring decision, as Eve may require significant training and development to meet the role's requirements.",
+    "jd_fields": {
+      "required_skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "docker",
+        "git",
+        "redis",
+        "aws"
+      ],
+      "preferred_skills": [
+        "asyncio",
+        "concurrent programming in python",
+        "elasticsearch",
+        "faiss",
+        "milvus"
+      ],
+      "min_experience_years": 5.0,
+      "education": "Bachelor",
+      "roles": [
+        "senior backend engineer"
+      ],
+      "domain": "Software"
+    },
+    "resume_fields": {
+      "name": "Eve Adams",
+      "email": "eve.a@example.com",
+      "phone": "+1-555-0106",
+      "skills": [
+        "python",
+        "git",
+        "html",
+        "css",
+        "javascript",
+        "sqlite"
+      ],
+      "experience_years": 1.0,
+      "education": "Associate Degree in Applied Science",
+      "education_level": "Bachelor",
+      "roles": [
+        "associate software engineer"
+      ],
+      "companies": [
+        "LaunchPad Tech"
+      ],
+      "summary": "Junior Developer looking for a backend role. Competent in Python programming, HTML/CSS, and basic Git usage."
+    },
+    "summary": "Junior Developer looking for a backend role. Competent in Python programming, HTML/CSS, and basic Git usage.",
+    "score_dict": {
+      "total": 47.42,
+      "confidence": "Medium",
+      "breakdown": {
+        "semantic_similarity": 62.92,
+        "skill_overlap": 28.57,
+        "experience": 15.0,
+        "education": 100.0
+      },
+      "weights": {
+        "semantic": 0.4,
+        "skill": 0.35,
+        "experience": 0.15,
+        "education": 0.1
+      }
+    },
+    "rank": 9
+  },
+  {
+    "filename": "weak_george_clark.txt",
+    "name": "George Clark",
+    "email": "george.c@example.com",
+    "phone": "+1-555-0108",
+    "total_score": 47.1,
+    "confidence": "Medium",
+    "breakdown": {
+      "semantic_similarity": 55.88,
+      "skill_overlap": 42.86,
+      "experience": 45.0,
+      "education": 30.0
+    },
+    "explanation": "George Clark is a borderline candidate for the senior backend engineer role, with some notable gaps in his profile. His strongest matching skills are python, git, and docker, which align with the job requirements, demonstrating some potential for backend development. However, key concerns include his limited experience of 3 years, which falls short of the 5-year minimum, and his education, which is a High School Diploma rather than a Bachelor's degree. Based on these factors, I would recommend a Borderline hiring decision, as George may require additional training or development to meet the role's requirements.",
+    "jd_fields": {
+      "required_skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "docker",
+        "git",
+        "redis",
+        "aws"
+      ],
+      "preferred_skills": [
+        "asyncio",
+        "concurrent programming in python",
+        "elasticsearch",
+        "faiss",
+        "milvus"
+      ],
+      "min_experience_years": 5.0,
+      "education": "Bachelor",
+      "roles": [
+        "senior backend engineer"
+      ],
+      "domain": "Software"
+    },
+    "resume_fields": {
+      "name": "George Clark",
+      "email": "george.c@example.com",
+      "phone": "+1-555-0108",
+      "skills": [
+        "php",
+        "laravel",
+        "mysql",
+        "git",
+        "docker",
+        "python",
+        "html",
+        "css"
+      ],
+      "experience_years": 3.0,
+      "education": "High School Diploma",
+      "education_level": "High School",
+      "roles": [
+        "web developer"
+      ],
+      "companies": [
+        "WebPros"
+      ],
+      "summary": "Software developer with 3 years of experience. Experienced with PHP and Laravel framework."
+    },
+    "summary": "Software developer with 3 years of experience. Experienced with PHP and Laravel framework.",
+    "score_dict": {
+      "total": 47.1,
+      "confidence": "Medium",
+      "breakdown": {
+        "semantic_similarity": 55.88,
+        "skill_overlap": 42.86,
+        "experience": 45.0,
+        "education": 30.0
+      },
+      "weights": {
+        "semantic": 0.4,
+        "skill": 0.35,
+        "experience": 0.15,
+        "education": 0.1
+      }
+    },
+    "rank": 10
+  },
+  {
+    "filename": "mismatch_grace_taylor_chef.txt",
+    "name": "Grace Taylor",
+    "email": "chefgrace@example.com",
+    "phone": "+1-555-0109",
+    "total_score": 35.07,
+    "confidence": "Low",
+    "breakdown": {
+      "semantic_similarity": 26.52,
+      "skill_overlap": 0.0,
+      "experience": 96.42,
+      "education": 100.0
+    },
+    "explanation": "The overall match quality for Grace Taylor is poor, primarily due to a significant mismatch in required skills for the senior backend engineer role. Although Grace has an impressive 10 years of experience, which aligns well with the job's experience requirement, her skills are entirely non-technical and focused on culinary arts, creating a substantial gap in necessary technical expertise. Given the low confidence in the match and the complete lack of relevant technical skills, I recommend a Reject for this candidate.",
+    "jd_fields": {
+      "required_skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "docker",
+        "git",
+        "redis",
+        "aws"
+      ],
+      "preferred_skills": [
+        "asyncio",
+        "concurrent programming in python",
+        "elasticsearch",
+        "faiss",
+        "milvus"
+      ],
+      "min_experience_years": 5.0,
+      "education": "Bachelor",
+      "roles": [
+        "senior backend engineer"
+      ],
+      "domain": "Software"
+    },
+    "resume_fields": {
+      "name": "Grace Taylor",
+      "email": "chefgrace@example.com",
+      "phone": "+1-555-0109",
+      "skills": [
+        "culinary arts",
+        "menu planning",
+        "cost control",
+        "staff management",
+        "food safety",
+        "kitchen operations",
+        "event catering"
+      ],
+      "experience_years": 10.0,
+      "education": "Associate Degree in Culinary Arts",
+      "education_level": "Bachelor",
+      "roles": [
+        "head chef",
+        "sous chef"
+      ],
+      "companies": [
+        "The Bistro Garden",
+        "Ocean Grill"
+      ],
+      "summary": "Professional Head Chef with 10+ years of culinary experience in high-volume, upscale restaurants. Skilled in menu development, kitchen staff training, food safety, inventory cost control, and customer satisfaction."
+    },
+    "summary": "Professional Head Chef with 10+ years of culinary experience in high-volume, upscale restaurants. Skilled in menu development, kitchen staff training, food safety, inventory cost control, and customer satisfaction.",
+    "score_dict": {
+      "total": 35.07,
+      "confidence": "Low",
+      "breakdown": {
+        "semantic_similarity": 26.52,
+        "skill_overlap": 0.0,
+        "experience": 96.42,
+        "education": 100.0
+      },
+      "weights": {
+        "semantic": 0.4,
+        "skill": 0.35,
+        "experience": 0.15,
+        "education": 0.1
+      }
+    },
+    "rank": 11
+  },
+  {
+    "filename": "mismatch_harold_finch_teacher.txt",
+    "name": "Harold Finch",
+    "email": "harold.f@example.com",
+    "phone": "+1-555-0110",
+    "total_score": 32.32,
+    "confidence": "Low",
+    "breakdown": {
+      "semantic_similarity": 20.91,
+      "skill_overlap": 0.0,
+      "experience": 93.06,
+      "education": 100.0
+    },
+    "explanation": "The overall match quality for Harold Finch is poor, primarily due to a significant lack of technical skills required for the senior backend engineer role, such as python, fastapi, and postgresql. Despite having 8 years of experience, which is above the minimum requirement, and a strong educational background, the candidate's skills are entirely non-technical, focusing on education and teaching. The key gap lies in the absence of relevant technical skills, making it challenging for Harold to succeed in this position. Based on this assessment, I would recommend a Reject, as the candidate's profile does not align with the necessary skills and expertise for the role.",
+    "jd_fields": {
+      "required_skills": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "docker",
+        "git",
+        "redis",
+        "aws"
+      ],
+      "preferred_skills": [
+        "asyncio",
+        "concurrent programming in python",
+        "elasticsearch",
+        "faiss",
+        "milvus"
+      ],
+      "min_experience_years": 5.0,
+      "education": "Bachelor",
+      "roles": [
+        "senior backend engineer"
+      ],
+      "domain": "Software"
+    },
+    "resume_fields": {
+      "name": "Harold Finch",
+      "email": "harold.f@example.com",
+      "phone": "+1-555-0110",
+      "skills": [
+        "curriculum design",
+        "lesson planning",
+        "classroom management",
+        "student assessment",
+        "educational tech",
+        "public speaking"
+      ],
+      "experience_years": 8.0,
+      "education": "Master of Education",
+      "education_level": "Master",
+      "roles": [
+        "history teacher",
+        "social studies teacher"
+      ],
+      "companies": [
+        "Oakridge High School",
+        "Riverdale Academy"
+      ],
+      "summary": "Dedicated High School History Teacher with 8 years of classroom experience. Experienced in curriculum design, student assessment, parent communication, and educational technology integration."
+    },
+    "summary": "Dedicated High School History Teacher with 8 years of classroom experience. Experienced in curriculum design, student assessment, parent communication, and educational technology integration.",
+    "score_dict": {
+      "total": 32.32,
+      "confidence": "Low",
+      "breakdown": {
+        "semantic_similarity": 20.91,
+        "skill_overlap": 0.0,
+        "experience": 93.06,
+        "education": 100.0
+      },
+      "weights": {
+        "semantic": 0.4,
+        "skill": 0.35,
+        "experience": 0.15,
+        "education": 0.1
+      }
+    },
+    "rank": 12
+  }
+]
