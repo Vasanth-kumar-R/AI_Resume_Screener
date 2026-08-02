@@ -1,6 +1,19 @@
 # 🎯 AI Resume Screener
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://airesumescreeneer.streamlit.app/)
+<div align="center">
+
+### ✨ try the live demo now! ✨
+**Click the button below to test the fully functional interactive dashboard in your browser:**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://airesumescreeneer.streamlit.app/)
+
+👉 **[https://airesumescreeneer.streamlit.app/](https://airesumescreeneer.streamlit.app/)** 👈
+
+*Experience the futuristic Purple Void glassmorphism UI with real-time scoring, parallel parsing, and dynamic AI explanations.*
+
+</div>
+
+---
 
 > **AI-powered resume ranking engine** — Upload a Job Description and up to 200 resumes. Get ranked candidates with weighted scores, skill analysis, and natural-language explanations in seconds.
 
