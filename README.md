@@ -211,6 +211,9 @@ Run the API separately (optional):
 uvicorn api.main:app --reload --port 8000
 ```
 
+Once running, you can access the interactive Swagger API documentation UI at:
+👉 **[http://localhost:8000/docs](http://localhost:8000/docs)**
+
 | Method | Endpoint | Description |
 |---|---|---|
 | `GET` | `/health` | Health check |
