@@ -1,5 +1,7 @@
 # 🎯 AI Resume Screener
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://airesumescreeneer.streamlit.app/)
+
 > **AI-powered resume ranking engine** — Upload a Job Description and up to 200 resumes. Get ranked candidates with weighted scores, skill analysis, and natural-language explanations in seconds.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)
