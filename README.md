@@ -29,7 +29,9 @@
 
 ---
 
-## 🧠 Architecture
+## 🧠 Architecture & Trade-offs
+
+For a detailed review of the core design decisions, scoring weights, embedding models, vector storage choices, and future roadmap, read **[TRADEOFFS.md](file:///c:/Users/HP/OneDrive/Desktop/vasanth%20python/ai_resume/TRADEOFFS.md)**.
 
 ```
 JD (pdf/docx/txt)           Resumes (10–200, pdf/docx)
@@ -271,6 +273,64 @@ The dashboard uses a **purple-void glassmorphism** aesthetic inspired by futuris
 - **Accents**: Neon violet (`#a855f7`), electric pink (`#d946ef`)
 - **Cards**: Semi-transparent dark glass with violet border glow
 - **Animations**: Floating orbs, conic gradient border spin, shimmer sweeps, spring-physics hover
+
+---
+
+## 📁 Sample Data
+
+We provide a programmatic sample generator to write realistic job descriptions and resumes representing varied match qualities.
+- **Job Description**: Created at `data/jd/sample_job_description.txt`
+- **Resumes**: 12 plaintext resumes at `data/resumes/` (strong, medium, weak, mismatch, and borderline cases).
+
+To regenerate or write the sample dataset:
+```bash
+python scripts/generate_sample_data.py
+```
+
+---
+
+## 📈 Sample Output
+
+We have generated and verified real pipeline outputs using the sample data.
+- **Ranked Candidates (JSON)**: `outputs/ranked_candidates.json`
+- **Ranked Candidates (CSV)**: `outputs/ranked_candidates.csv`
+
+To run the pipeline and regenerate these outputs:
+```bash
+python scripts/run_sample_screening.py
+```
+
+---
+
+## 🧪 Running Tests
+
+Unit tests verify the score calculations, experience scoring, and education ranking logic.
+To run the test suite using `pytest`:
+```bash
+pytest tests/
+```
+
+---
+
+## 🐳 Running with Docker
+
+Docker compose coordinates both the FastAPI endpoint and the Streamlit dashboard.
+
+### Prerequisites
+Make sure you have a `.env` file containing your `GROQ_API_KEY` at the project root:
+```env
+GROQ_API_KEY=your_groq_api_key_here
+```
+
+### Starting the Services
+To build and start both the API and the Dashboard containers:
+```bash
+docker-compose up --build
+```
+
+### Exposed Ports
+- **FastAPI API**: Exposed on **[http://localhost:8000](http://localhost:8000)** (health check: `/health`)
+- **Streamlit Dashboard**: Exposed on **[http://localhost:8501](http://localhost:8501)**
 
 ---
 
