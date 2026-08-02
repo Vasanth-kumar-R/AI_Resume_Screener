@@ -9,8 +9,6 @@
 
 👉 **[https://airesumescreeneer.streamlit.app/](https://airesumescreeneer.streamlit.app/)** 👈
 
-*Experience the futuristic Purple Void glassmorphism UI with real-time scoring, parallel parsing, and dynamic AI explanations.*
-
 </div>
 
 ---
