@@ -1,0 +1,129 @@
+# ──────────────────────────────────────────────
+# Python
+# ──────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.pyo
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+wheels/
+share/python-wheels/
+
+# ──────────────────────────────────────────────
+# Virtual environments
+# ──────────────────────────────────────────────
+.env.local
+.venv/
+venv/
+ENV/
+env/
+.conda/
+conda-env/
+
+# ──────────────────────────────────────────────
+# Secrets — NEVER commit these
+# ──────────────────────────────────────────────
+.env
+*.env
+secrets.json
+secrets.yaml
+secrets.toml
+*_key.txt
+api_key*
+
+# ──────────────────────────────────────────────
+# ML model cache
+# ──────────────────────────────────────────────
+.cache/
+models/
+*.bin
+*.pt
+*.safetensors
+sentence_transformers_cache/
+huggingface_cache/
+~/.cache/huggingface/
+
+# ──────────────────────────────────────────────
+# FAISS index files
+# ──────────────────────────────────────────────
+*.index
+*.faiss
+faiss_store/
+
+# ──────────────────────────────────────────────
+# Uploaded / temp files
+# ──────────────────────────────────────────────
+uploads/
+temp/
+tmp/
+*.tmp
+*.temp
+*.log
+
+# ──────────────────────────────────────────────
+# Streamlit
+# ──────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ──────────────────────────────────────────────
+# Jupyter / IPython
+# ──────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ──────────────────────────────────────────────
+# Testing
+# ──────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# ──────────────────────────────────────────────
+# IDE / editors
+# ──────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ──────────────────────────────────────────────
+# OS
+# ──────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ──────────────────────────────────────────────
+# Outputs / results
+# ──────────────────────────────────────────────
+*.csv
+*.json
+!requirements.txt
+results/
+exports/
